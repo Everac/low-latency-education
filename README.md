@@ -14,8 +14,8 @@
  - [Devoxx 2012: Performance Methodology How-To](http://shipilev.net/talks/devoxx-Nov2012-perfMethodology.pdf)
  - [Automated message queue orchestration for scaled-up benchmarking](https://github.com/tylertreat/Flotilla)
  - [Accurate Latency Estimation in a Distributed Event Processing System](http://research.microsoft.com/pubs/141505/latency-TR.pdf)
- - [RabbitMQ Performance Measurements, part 1](http://www.rabbitmq.com/blog/2012/04/17/rabbitmq-performance-measurements-part-1/)
  - [Some queuing theory: throughput, latency and bandwidth](http://www.rabbitmq.com/blog/2012/05/11/some-queuing-theory-throughput-latency-and-bandwidth/)
+ - [RabbitMQ Performance Measurements, part 1](http://www.rabbitmq.com/blog/2012/04/17/rabbitmq-performance-measurements-part-1/) 
 
  # Application of low-latency system
  - [Evolution and Practice: Low-latency Distributed Applications in Finance](http://queue.acm.org/detail.cfm?id=2770868)
