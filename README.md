@@ -17,5 +17,5 @@
  - [Some queuing theory: throughput, latency and bandwidth](http://www.rabbitmq.com/blog/2012/05/11/some-queuing-theory-throughput-latency-and-bandwidth/)
  - [RabbitMQ Performance Measurements, part 1](http://www.rabbitmq.com/blog/2012/04/17/rabbitmq-performance-measurements-part-1/) 
 
- # Application of low-latency system
+# Application of low-latency system
  - [Evolution and Practice: Low-latency Distributed Applications in Finance](http://queue.acm.org/detail.cfm?id=2770868)
