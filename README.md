@@ -6,6 +6,7 @@
  - [React San Francisco 2014 : Gil Tene - Understanding Latency](https://www.youtube.com/watch?v=9MKY4KypBzg)
  - [Correcting YCSB's Coordinated Omission problem](http://psy-lob-saw.blogspot.fr/2015/03/fixing-ycsb-coordinated-omission.html)
  - [Controlling Queue Delay](http://queue.acm.org/detail.cfm?id=2209336)
+ - [Frequency Trails: Modes and Modality](http://www.brendangregg.com/FrequencyTrails/modes.html)
 
 # Monitoring latency
  - [Every Microsecond Counts: Tracking Fine-Grain Latencies with a Lossy Difference Aggregator](https://cseweb.ucsd.edu/~klevchen/klsv-sigcomm09.pdf)
